@@ -2,6 +2,12 @@
 
 Public **Maven repository layout** for `com.productfruits:sdk`, published automatically from the private Android SDK repo (same idea as [product-fruits-ios-sdk](https://github.com/product-fruits/product-fruits-ios-sdk) for SPM).
 
+## Documentation
+
+- **[Getting started](docs/getting-started.md)** — Gradle, config, identify, tracking, push  
+- **[Examples](docs/examples.md)** — Application, Navigation, Compose, FCM permission  
+- **[API reference](docs/api-reference.md)** — `ProductFruits`, `ProductFruitsConfig`, errors  
+
 ## Gradle (Kotlin DSL)
 
 **Repository** (static files on `main`; use `raw.githubusercontent.com`):
